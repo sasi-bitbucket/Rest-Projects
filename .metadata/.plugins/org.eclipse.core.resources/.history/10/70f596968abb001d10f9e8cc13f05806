@@ -1,0 +1,5 @@
+package com.example.restwebservices.bean;
+
+public class HelloWorldBean {
+
+}
